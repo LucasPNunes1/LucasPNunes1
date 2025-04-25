@@ -1,17 +1,14 @@
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspereiranunes/)
-####
-
 <p align="center">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Adjust the number of non-breaking spaces as needed -->
-    <a href="http://LucasPNunes1.com.np" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=LucasPNunes1&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a>
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=LucasPNunes1&data=followers,repositories,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
-<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+<div align="center" ><a href="#"><img alt="" width="100%" src="images/binario.gif"></a></div>
 
-<h3 align="center"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/code.gif?raw=true" height="20"</h3>
+<h3 align="center"><img src="images/code.gif?raw=true" height="20"</h3>
 
-<p align="center"><a href="https://github.com/jrohitofficial"><img src="https://github.com/jrohitofficial/jrohitofficial/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>                  
+<p align="center"><img src="images/linha.gif" alt="Animated footer bars" width="100%"/></a></p>                  
 
 <table>
 <div style="display: flex; align-items: flex-start; align: center">
@@ -74,3 +71,9 @@
 </table>
 <br><br>
 </table>
+
+<h2 align="center">Linkedin</h2>
+<div align="center">
+    <a href="https://linkedin.com/in/https://www.linkedin.com/in/lucaspereiranunes/" target="blank"><img align="center"                                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            alt="https://www.linkedin.com/in/lucaspereiranunes/" height="30" width="40" />
+    </a>
+</div>
