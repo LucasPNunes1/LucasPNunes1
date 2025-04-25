@@ -42,6 +42,10 @@
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
+      <td align="center" width="96">
+        <img src="images/assembly.svg" width="40" height="40" alt="PostgreSQL" />
+      <br>Assembly
+    </td>
  </tr>
 </table>
 <br><br>
