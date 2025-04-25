@@ -11,6 +11,10 @@
       <br>Python
     </td>
     <td align="center" width="96">
+        <img src="images/c.svg" width="40" height="40" alt="PostgreSQL" />
+      <br>C
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
       <br>C++
     </td>
@@ -26,6 +30,9 @@
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
       <br>HTML5
     </td>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
       <br>CSS
@@ -38,13 +45,17 @@
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
       <br>Git
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
-      <td align="center" width="96">
+    <td align="center" width="96">
         <img src="images/assembly.svg" width="40" height="40" alt="PostgreSQL" />
       <br>Assembly
+    </td>
+    <td align="center" width="96">
+        <img src="images/lua.svg" width="40" height="40" alt="PostgreSQL" />
+      <br>Lua
     </td>
  </tr>
 </table>
