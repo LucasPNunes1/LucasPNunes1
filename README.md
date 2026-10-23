@@ -1,79 +1,75 @@
-<p align="center">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a>
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=LucasPNunes1&data=followers,repositories,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
-    </a>
-
-<div align="center" ><a href="#"><img alt="" width="100%" src="images/binario.gif"></a></div>
-
-<h3 align="center"><img src="images/code.gif?raw=true" height="20"</h3>
-
-<p align="center"><img src="images/linha.gif" alt="Animated footer bars" width="100%"/></a></p>                  
-
-<table>
-<div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org/">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="images/c.svg" width="40" height="40" alt="PostgreSQL" />
-      <br>C
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
-      <br>C++
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
-      <br>Java
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-      <br>JavaScript
-    </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
-      <br>HTML5
-    </td>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-        <img src="images/assembly.svg" width="40" height="40" alt="PostgreSQL" />
-      <br>Assembly
-    </td>
-    <td align="center" width="96">
-        <img src="images/lua.svg" width="40" height="40" alt="PostgreSQL" />
-      <br>Lua
-    </td>
- </tr>
-</table>
-<br><br>
-</table>
-
-<h2 align="center">Linkedin</h2>
 <div align="center">
-    <a href="https://www.linkedin.com/in/lucaspereiranunes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            alt="https://www.linkedin.com/in/lucaspereiranunes/" height="30" width="40" />
-    </a>
+  <img src="assets/banner.jpg" alt="Banner" width="100%">
 </div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=20&duration=5000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=760&lines=Software+Engineer+%C2%B7+AI+Engineer;Reliable+software+%C2%B7+Applied+AI+%C2%B7+Data" alt="Software Engineer and AI Engineer" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucaspereiranunes"><img src="https://img.shields.io/badge/LinkedIn-24527A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lucaspereiranunes@gmail.com"><img src="https://img.shields.io/badge/Gmail-8F4B4B?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://lucaspnunes.dev.br"><img src="https://img.shields.io/badge/Portfolio-8A623D?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+</p>
+
+---
+
+<p align="left">
+  <img src="assets/profile-art.jpg" align="right" width="220" alt="Illustration" style="margin-left: 20px; border-radius: 15px;">
+  <strong>Software Engineer & AI Engineer</strong>
+
+  I design and ship software systems that turn AI and data into useful products. My work spans backend engineering, machine learning, LLM applications and systems that need to be reliable beyond a notebook.
+
+  Currently studying Computer Engineering at PUC Goiás, with interests in AI applied to science, data-intensive systems and software that is useful outside a notebook.
+</p>
+
+<br clear="right">
+
+<div align="center">
+  <h3>Technologies</h3>
+</div>
+
+---
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-2F5573?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-2D6A65?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-365A80?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-4B7480?style=for-the-badge&logo=react&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-40577A?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-35627A?style=for-the-badge&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-8F4B3A?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-9A5A2A?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-8F3F4A?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-8B6A35?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-3F705B?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-40577A?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-3E6875?style=for-the-badge&logo=numpy&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-8A721E?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-8B4A3F?style=for-the-badge&logo=git&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-87433B?style=for-the-badge&logo=redis&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-40516B?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+<div align="center">
+  <h3>Selected projects</h3>
+</div>
+
+---
+
+<div align="center">
+
+| Project | Focus |
+| :--- | :--- |
+| [**Weather Trend Forecasting**](https://github.com/LucasPNunes1/PMAccelerator-DataScience) | End-to-end data science project using weather data from 439 stations. It covers cleaning, exploratory and spatial analysis, feature engineering, lag and rolling-window features, and comparisons between SARIMA, Prophet, linear regression, Gradient Boosting and ensemble models. |
+| [**Controle de Embarcados**](https://github.com/LucasPNunes1/controle-embarcados) | Team project for remotely controlling a Genius game running on an ESP32. The web interface communicates with the device through MQTT, while the backend combines NestJS, PostgreSQL, Prisma, Docker and Nginx. |
+| **Hyperspectral Research** | Applied machine learning project for classifying bacterial resistance from hyperspectral images. It involved spectral preprocessing, ROI segmentation, feature engineering, GPU processing, model comparison and leave-one-isolate-out validation across plates. The public repository is being prepared. |
+
+</div>
+
+<p align="center">
+  <img src="assets/stats-art.jpg" width="100%" alt="Artwork">
+</p>
+
