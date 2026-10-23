@@ -1,98 +1,79 @@
-<div align="center">
-  <img src="assets/banner.jpg" alt="Banner" width="100%">
-</div>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Applied+AI+Engineer;Python+%7C+Machine+Learning+%7C+Software;Computer+Engineering+Student;building+things+that+make+sense" alt="Applied AI Engineer" />
-</p>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a>
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=LucasPNunes1&data=followers,repositories,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+    </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucaspereiranunes)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucaspereiranunes@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://lucaspnunes.dev.br)
+<div align="center" ><a href="#"><img alt="" width="100%" src="images/binario.gif"></a></div>
 
----
+<h3 align="center"><img src="images/code.gif?raw=true" height="20"</h3>
 
-<p align="left">
-  <img src="assets/profile-art.jpg" align="right" width="220" alt="Illustration" style="margin-left: 20px; border-radius: 15px;">
-  <strong>Applied AI Engineer & Computer Engineering Student</strong>
+<p align="center"><img src="images/linha.gif" alt="Animated footer bars" width="100%"/></a></p>                  
 
-  I build software and AI systems for problems that need both engineering and investigation. My work moves between applied machine learning research, LLM products and reliable backend systems.
+<table>
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.python.org/">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="images/c.svg" width="40" height="40" alt="PostgreSQL" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+      <br>JavaScript
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5" />
+      <br>HTML5
+    </td>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="css" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+        <img src="images/assembly.svg" width="40" height="40" alt="PostgreSQL" />
+      <br>Assembly
+    </td>
+    <td align="center" width="96">
+        <img src="images/lua.svg" width="40" height="40" alt="PostgreSQL" />
+      <br>Lua
+    </td>
+ </tr>
+</table>
+<br><br>
+</table>
 
-  Currently studying Computer Engineering at PUC Goiás, with interests in AI applied to science, data-intensive systems and software that is useful outside a notebook.
-</p>
-
-<br clear="right">
-
+<h2 align="center">Linkedin</h2>
 <div align="center">
-  <h3>Technologies</h3>
+    <a href="https://www.linkedin.com/in/lucaspereiranunes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"            alt="https://www.linkedin.com/in/lucaspereiranunes/" height="30" width="40" />
+    </a>
 </div>
-
----
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-black?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<br>
-
-<div align="center">
-  <h3>Selected projects</h3>
-</div>
-
----
-
-<div align="center">
-
-| Project | Focus |
-| :--- | :--- |
-| [**PMAssistant**](https://github.com/LucasPNunes1/PMAssistant-discord-rag-bot) | Discord FAQ bot with RAG, isolated memory and document search. |
-| [**Controle de Embarcados**](https://github.com/LucasPNunes1/controle-embarcados) | Web interface that controls an ESP32 game through MQTT, NestJS and PostgreSQL. |
-| **Hyperspectral Research** | Machine learning pipeline for bacterial resistance classification. Public version coming soon. |
-| [**Cluster Beowulf**](https://github.com/LucasPNunes1/Projeto-Cluster-Beowulf) | C++ and OpenMPI project that distributes a search across simulated cluster nodes. |
-| [**Processor Simulator**](https://github.com/LucasPNunes1/Simulador_De_Processador) | NASM and C simulator covering instructions, registers, memory and CPU operations. |
-
-</div>
-
-<br>
-
-<div align="center">
-  <h3>Research</h3>
-</div>
-
----
-
-<p align="center">
-  Applied machine learning to hyperspectral images for bacterial resistance classification, with model comparison and leave-one-isolate-out validation across plates.
-</p>
-
-<br>
-
-<div align="center">
-  <h3>Contribution map</h3>
-</div>
-
----
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-south-season.svg" width="100%" alt="3D GitHub contribution graph" />
-</p>
-
-<p align="center"><sub>Generated automatically with GitHub Profile 3D Contrib.</sub></p>
-
-<br>
-
-<p align="center">
-  <img src="assets/stats-art.jpg" width="220" alt="Artwork">
-</p>
-
