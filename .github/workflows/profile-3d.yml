@@ -28,4 +28,3 @@ jobs:
           if git commit -m "generated contribution graph"; then
             git push
           fi
-
